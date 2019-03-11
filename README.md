@@ -1,6 +1,6 @@
 # Simple Alarm Clock
 
-![image](https://github.com/lhiep/alarm-clock/blob/master/IMG_2947.jpg)
+[![image](https://github.com/lhiep/alarm-clock/blob/master/IMG_2947.jpg)](https://www.youtube.com/watch?v=hrCGJ-lAgcM)
 
 [TO WATCH THE DEMO VIDEO, CLICK HERE!](https://www.youtube.com/watch?v=hrCGJ-lAgcM)
 
